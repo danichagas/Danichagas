@@ -4,7 +4,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Cursando Sistemas de Informação - [UFPA](https://github.com/codethi/breaking-news](https://sigaa.ufpa.br/sigaa/public/curso/curriculo.jsf?lc=pt_BR&id=148126))
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />  Como chegar até mim **chagasdaniel788@gmail.com** <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Atualmente estou aprendendo **TypeScript.**<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Atualmente estou estudando **Java.**<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Apaixonado por **Desenvolvimento de Software.**<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Curiosidade: **amo jogar vôlei🏐.**<br />
 <hr>
@@ -31,7 +31,7 @@
 <hr/>
 <h3 align="left">Todas as linguagens e ferramentas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,js,nodejs,ts,react,angular,nextjs,express,java,spring,mysql,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,html,css,js,java,spring,docker,mysql,mongodb,git,github)](https://skillicons.dev)
 <hr>
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danichagas&custom_title=Daniel%20Chagas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
