@@ -1,5 +1,6 @@
-<h1 align="center">Olá 👋, Eu sou Daniel Chagas</h1>
-<h3 align="center">FullStack Developer, Universitário SI 👨‍🎓</h3>
+<h1 align="center">Hello World! 👋, Eu sou Daniel Chagas</h1>
+<h3 align="center">Desenvolvedor Back-End, Universitário SI 👨‍🎓</h3>
+<h4 align="center"> <code>System.out.println("Bem-vindo ao meu github!")</code> </h4>
 <hr>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Cursando Sistemas de Informação - [UFPA](https://github.com/codethi/breaking-news](https://sigaa.ufpa.br/sigaa/public/curso/curriculo.jsf?lc=pt_BR&id=148126))
@@ -29,11 +30,11 @@
 <a href="https://www.instagram.com/dani.chagasx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" /></a>
 </p>
 <hr/>
-<h3 align="left">Todas as linguagens e ferramentas:</h3>
+<h3 align="left">Minhas Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,kafka,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,maven,postgres,kafka,mysql,mongodb)](https://skillicons.dev)
 <hr>
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danichagas&custom_title=Daniel%20Chagas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-Feito por **Daniel Chagas** 🖥️
+Made by **Daniel Chagas** 🖥️
