@@ -31,7 +31,7 @@
 <hr/>
 <h3 align="left">Todas as linguagens e ferramentas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,html,css,js,java,spring,docker,kafka,mysql,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,kafka,mysql,mongodb)](https://skillicons.dev)
 <hr>
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danichagas&custom_title=Daniel%20Chagas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
