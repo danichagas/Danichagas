@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, Eu sou Daniel Chagas</h1>
-<h3 align="center">Desenvolvedor Back-End, Universitário SI 👨‍🎓</h3>
+<h3 align="center">Software Engineer, Universitário SI 👨‍🎓</h3>
 <h4 align="center"> <code>System.out.println("Bem-vindo ao meu github!")</code> </h4>
 <hr>
 
