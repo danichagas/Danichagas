@@ -21,12 +21,6 @@
 </div>
 
 </div>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daniel-chagas-51a55b29b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dani.chagasx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" /></a>
-</p>
 <hr/>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,kafka,mysql,mongodb,postman)](https://skillicons.dev)
