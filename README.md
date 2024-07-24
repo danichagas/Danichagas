@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I am Daniel Chagas 👋</h1>
-<h4 align="center"> <code>System.out.println("Bem-vindo ao meu github!")</code> </h4>
+<h4 align="center"> <code>System.out.println("Welcome to my github!")</code> </h4>
 <hr>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Back-end Developer
