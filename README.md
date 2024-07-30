@@ -23,7 +23,7 @@
 </div>
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,kafka,redis,mysql,mongodb,gradle,maven,hibernate,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,mongodb,gradle,maven,hibernate,git,postman)](https://skillicons.dev)
 - Quarkus
 <hr>
 
