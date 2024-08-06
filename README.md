@@ -27,12 +27,10 @@
 - **Java** <br>
 - **Spring Boot, Spring Webflux, Spring Security** <br>
 - **Quarkus** <br>
-- **Javascript e Angular** <br>
 - **SQL, SQL server, MySQL e PostegreSQL** <br>
 - **Docker** <br>
 - **Gradle, Maven e Hibernate** <br>
-- **Junit** <br>
-- **Mockito** <br>
+- **Junit, Mockito e Postman** <br>
 - **API Rest e Micoserviços**
 <hr>
 
