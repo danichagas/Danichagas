@@ -24,7 +24,7 @@
 
 <h1>Minhas Skills:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,nestjs,postgres,mongodb,docker,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,typescript,nodejs,nestjs,postgres,mongodb,docker,git,postman)](https://skillicons.dev)
 
 - **Java e Javascript** <br>
 - **Node.js** <br>
