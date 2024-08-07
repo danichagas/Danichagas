@@ -24,6 +24,8 @@
 
 <h1>Minhas Skills:</h1>
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,gradle,maven,hibernate,git,postman)](https://skillicons.dev)
+
 - **Java** <br>
 - **Spring Boot, Spring Webflux, Spring Security** <br>
 - **Quarkus** <br>
