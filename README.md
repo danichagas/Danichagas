@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! Eu sou Daniel Chagas 👋</h1>
-<h4 align="center"> <code>console.log("Bem-vindo ao meu github!")</code> </h4>
+<h4 align="center"> <code>System.out.println("Bem-vindo ao meu Github!")</code> </h4>
 <hr>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> **Desenvolvedor Backend**
@@ -24,13 +24,15 @@
 
 <h1>Minhas Skills:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,typescript,nodejs,nestjs,postgres,mongodb,docker,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,maven,gradle,hibernate,git,postman)](https://skillicons.dev)
 
-- **Java e Javascript** <br>
-- **Node.js** <br>
-- **Nest.js** <br>
+- **Java** <br>
+- **SpringBoot, SpringWebFlux, SpringSecurity** <br>
+- **Quarkus** <br>
 - **SQL, SQL server, MySQL, PostegreSQL e MongoDB** <br>
+- **Junit, Mockito e Postaman**
 - **Docker** <br>
+- **Maven, Gradle e Hibernate**
 - **Postman** <br>
 - **API Rest e Micoserviços**
 <hr>
