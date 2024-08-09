@@ -24,14 +24,14 @@
 
 <h1>Minhas Skills:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,npm,nestjs,postgres,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,npm,nestjs,postgres,mongodb,docker,kubernetes)](https://skillicons.dev)
 
 - **Javascript e Typescript** <br>
 - **Node.js e NPM** <br>
 - **Nest.js** <br>
 - **SQL, SQL server, MySQL, PostegreSQL e MongoDB** <br>
 - **Postaman**
-- **Docker** <br>
+- **Docker e Kubernetes** <br>
 - **API Rest e Micoserviços**
 <hr>
 
