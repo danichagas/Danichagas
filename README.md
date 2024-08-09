@@ -28,6 +28,7 @@
 
 - **Javascript e Typescript** <br>
 - **Node.js e NPM** <br>
+- **Nest.js** <br>
 - **SQL, SQL server, MySQL, PostegreSQL e MongoDB** <br>
 - **Postaman**
 - **Docker** <br>
