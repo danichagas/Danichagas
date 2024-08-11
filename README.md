@@ -23,12 +23,13 @@
 
 <h1>Minhas Skills:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,postgres,mongodb,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,maven,gradle,postgres,mongodb,docker,kubernetes)](https://skillicons.dev)
 
 - **Java** <br>
 - **Spring e Quarkus** <br>
 - **SQL, SQL server, MySQL, PostegreSQL e MongoDB** <br>
 - **Postaman**
+- **Kafka** <br>
 - **Docker e Kubernetes** <br>
 - **API Rest e Micoserviços**
 - **Maven e Gradle**
