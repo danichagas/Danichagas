@@ -23,15 +23,15 @@
 
 <h1>Minhas Skills:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,npm,nestjs,postgres,mongodb,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,postgres,mongodb,docker,kubernetes)](https://skillicons.dev)
 
-- **Javascript e Typescript** <br>
-- **Node.js e NPM** <br>
-- **Nest.js** <br>
+- **Java** <br>
+- **Spring e Quarkus** <br>
 - **SQL, SQL server, MySQL, PostegreSQL e MongoDB** <br>
 - **Postaman**
 - **Docker e Kubernetes** <br>
 - **API Rest e Micoserviços**
+- **Maven e Gradle**
 <hr>
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=danichagas&custom_title=Daniel%20Chagas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
