@@ -10,6 +10,8 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Apaixonado pelo **desenvolvimento de software**<br/>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Veja meu [Portfolio](https://danielchagas.vercel.app/)
 
+<br>
+
 <h1>Minhas Skills:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,kubernetes,maven,gradle,hibernate,git)](https://skillicons.dev)
