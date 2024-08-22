@@ -20,12 +20,6 @@
 
 </div>
 
-<div align='center'>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danichagas&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
-
-</div> <br>
-
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=danichagas&custom_title=Daniel%20Chagas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 Feito por **Daniel Chagas**
