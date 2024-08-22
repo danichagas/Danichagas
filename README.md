@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! Eu sou Daniel Chagas 👋</h1>
 <h4 align="center"> <code>console.log("Bem-vindo ao meu Github!")</code> </h4>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="370px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Desenvolvedor **Full-Stack**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Cursando Sistemas de Informação - [UFPA](https://ufpa.br/)
@@ -12,9 +12,19 @@
 
 <br>
 
-<h1>Minhas Skills:</h1>
+<div align='center'>
+  
+# Minhas Skills 👨🏿‍💻
+  
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,express,react,postgres,mongodb,mysql,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,react,nestjs,mongodb,mysql,docker,git)](https://skillicons.dev)
+</div>
+
+<div align='center'>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danichagas&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
+
+</div> <br>
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=danichagas&custom_title=Daniel%20Chagas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
