@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
+
 <h1 align="center">Olá Mundo! Eu sou Daniel Chagas 👋</h1>
 <h2 align="center">Bem-vindo ao meu Github!</h2>
 
@@ -14,6 +16,7 @@
 <div align="center">  
  
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,docker,mysql,mongodb,postgres)](https://skillicons.dev)
+
   
 </div>
 
