@@ -15,7 +15,7 @@
 
 <div align="center">  
  
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,docker,mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,docker,mysql,mongodb,postgres)](https://skillicons.dev)
 
   
 </div>
