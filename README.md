@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7247c3&height=120&section=header"/>
 <h1 align="center">Hello World! I'am Daniel Chagas 👋</h1>
-<h5 align="center"><code>console.log("Welcome to my github!😆")</code></h5>
+<h4 align="center"><code>console.log("Welcome to my github!😆")</code></h4>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="270px" align="right">
 
