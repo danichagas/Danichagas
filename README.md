@@ -7,7 +7,7 @@ I'm a Node.js Developer, passionate about solving problems and I'm passionate ab
 
 I have experiencie with the following technologies:
 - Node.js;
-- TypeScript;
+- TypeScript and Javascript;
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
 - Nest.js;
