@@ -1,17 +1,16 @@
 # Hi, my names is Daniel!
 
-👨🏻‍💻 Backend Node.js Developer
+👨🏻‍💻 Backend Developer
 
 ## About
-I'm a Node.js Developer, passionate about solving problems and I'm passionate about coding.
+I'm a Java Developer, passionate about solving problems and I'm passionate about coding.
 
 I have experiencie with the following technologies:
-- Node.js;
-- TypeScript and Javascript;
+- Java;
+- Spring Framework;
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
-- Nest.js;
-- Express;
+- Maven and Gradle;
 - Git;
 - Docker;
 - Microservices;
