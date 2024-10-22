@@ -15,6 +15,8 @@ I have experiencie with the following technologies:
 - Docker;
 - Microservices;
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,maven,gradle,mongodb,postgresql,mysql,git)](https://skillicons.dev)
+
 I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
 
 I love challenges and I want to grow professionally every single day.
