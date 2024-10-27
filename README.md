@@ -7,7 +7,7 @@ I'm a Java Developer, passionate about solving problems and I'm passionate about
 
 I have experiencie with the following technologies:
 - Java;
-- Spring Framework;
+- Spring Boot, Spring Security, Spring Data;
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
 - Maven and Gradle;
