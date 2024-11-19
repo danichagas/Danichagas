@@ -1,16 +1,33 @@
-```js
-import Developer from "danichagas";
+# Hello, my name is Daniel!
 
-class AboutMe extends Developer {
-  name = "Daniel Chagas";
-  area = "Backend Developer";
-  study = "UFPA - Universidade Federal do Pará";
-}
+👨🏻‍💻 Backend Java Developer
 
-class Skills extends Developer {
-  language = ["Java"];
-  library = ["Gadle, Maven, Docker, AWS"]
-  framework = ["Spring Framework"];
-  database = ["PostgreSQL, MySQL, MongoDB"]
-}
-```
+## About
+I am a Java Developer, in love with the tech area and passionate about solving problems.
+
+I have experiencie with the following technologies:
+- Java;
+- Spring Framework;
+- PostgreSQL, MySQL and MongoDB;
+- Rest APIs;
+- AWS S3(Lambda);
+- Git;
+- Docker;
+- ORM(Sequelize, Mongoose);
+- Microservices;
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,postgresql,mysql,mongodb,maven,gradle&theme=light)](https://skillicons.dev)
+
+I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
+
+I love challenges and I want to grow professionally every single day.
+
+### Contact:
+<div> 
+  <a href = "mailto:danielchagas788@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danielchagasx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ <br> <br>
+<div>
+
+                                                                                     
