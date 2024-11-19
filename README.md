@@ -13,7 +13,7 @@ I have experiencie with the following technologies:
 - AWS S3(Lambda);
 - Git;
 - Docker;
-- ORM(Sequelize, Mongoose);
+- ORM, DTOs(Sequelize, Mongoose);
 - Microservices;
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,postgresql,mysql,mongodb,maven,gradle&theme=light)](https://skillicons.dev)
