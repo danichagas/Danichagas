@@ -18,7 +18,7 @@ I have experiencie with the following technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,postgresql,mysql,mongodb,maven,gradle&theme=light)](https://skillicons.dev)
 
-I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
+I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market. I have experience with ORM and DTO standards.
 
 I love challenges and I want to grow professionally every single day.
 
