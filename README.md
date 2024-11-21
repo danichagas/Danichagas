@@ -10,10 +10,10 @@ I have experiencie with the following technologies:
 - Spring Framework;
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
-- AWS S3(Lambda);
+- AWS S3 (Lambda);
 - Git;
 - Docker;
-- ORM, DTOs(Sequelize, Mongoose);
+- ORM, DTO (Sequelize, Mongoose);
 - Microservices;
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,docker,postgresql,mysql,mongodb,maven,gradle&theme=light)](https://skillicons.dev)
