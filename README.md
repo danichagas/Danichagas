@@ -17,6 +17,8 @@ I have experiencie with the following technologies:
 - ORM and DTO;
 - Microservices;
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,mongodb,maven,gradle,docker,aws,git,postman&theme=light)](https://skillicons.dev)
+
 I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
 
 I love challenges and I want to grow professionally every single day.
