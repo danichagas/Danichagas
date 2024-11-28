@@ -6,7 +6,7 @@
 I am Mobile Developer, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies:
-- Java and Kotlin;
+- Kotlin and Java;
 - Spring Framework;
 - PostgreSQL, MySQL and MongoDB;
 - Rest APIs;
@@ -17,7 +17,7 @@ I have experiencie with the following technologies:
 - ORM and DTO;
 - Microservices;
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,aws,postgresql,mysql,mongodb,maven,gradle,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,aws,postgresql,mysql,mongodb,maven,gradle,docker&theme=dark)](https://skillicons.dev)
 
 I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
 
