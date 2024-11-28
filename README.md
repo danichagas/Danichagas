@@ -1,9 +1,9 @@
 # Hi, my name is Danel!
 
-👨🏻‍💻 Back-End Developer
+👨🏻‍💻 Mobile Developer
 
 ## About
-I am Java Developer, in love with the tech area and passionate about solving problems.
+I am Mobile Developer, in love with the tech area and passionate about solving problems.
 
 I have experiencie with the following technologies:
 - Java and Kotlin;
