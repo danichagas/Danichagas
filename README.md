@@ -9,7 +9,7 @@
 
 My name is Daniel Chagas, currently living in Brazil!
 
-- :man_technologist: I'm mobile developer.
-- :blue_heart:Techs: Kotlin, Java...
+- :man_technologist: I'm Backend developer.
+- :blue_heart:Techs: Java, Spring, AWS, Maven...
 - :books:Studying Information Systems - UFPA
 ---
