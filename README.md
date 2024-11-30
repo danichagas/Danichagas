@@ -1,34 +1,15 @@
-# Hi, my name is Danel!
+# :man_technologist: Daniel Chagas
 
-👨🏻‍💻 Mobile Developer
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaopaulolndev)](https://github.com/danichagas)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/joaopaulolndev)](https://www.instagram.com/dani.chagasx/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulolndev/)](https://www.linkedin.com/in/danielchagasx/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianwandersong12@gmail.com)](chagasdaniel788@gmail.com)
 
-## About
-I am Mobile Developer, in love with the tech area and passionate about solving problems.
+## Fala Devs 👋
 
-I have experiencie with the following technologies:
-- Kotlin and Java
-- Spring Framework
-- PostgreSQL
-- Rest APIs
-- Maven and Gradle
-- Docker
-- AWS (Lambda, API Gateway, S3)
-- Git
-- ORM and DTO
-- Microservices
+My name is Daniel Chagas, currently living in Brazil!
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,spring,aws,postgresql,maven,gradle,docker&theme=dark)](https://skillicons.dev)
-
-I'm capable of developing smart solutions and solving the provided problems by producing high-quality code and utilizing the most used standards in the market.
-
-I love challenges and I want to grow professionally every single day.
-
-### Contact:
-<div> 
-  <a href = "mailto:chagasdaniel788@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielchagasx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- <br> <br>
-<div>
-
-                                                                                     .
+- :man_technologist: I'm mobile developer.
+- :blue_heart:Techs: Kotlin, Java...
+- :books:Studying Information Systems - UFPA
+---
