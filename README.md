@@ -1,15 +1,20 @@
-# :man_technologist: Daniel Chagas
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaopaulolndev)](https://github.com/danichagas)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://github.com/joaopaulolndev)](https://www.instagram.com/dani.chagasx/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulolndev/)](https://www.linkedin.com/in/danielchagasx/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ianwandersong12@gmail.com)](chagasdaniel788@gmail.com)
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
-## Fala Devs 👋
+<p>👨‍💻 Backend Developer</p>
+<p>🎓 Studying Information Systems at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
+<p>📚 Studing Cloud Solutions and Event-Driven Architecture</p>
+<p>🎥 My <a href="https://www.linkedin.com/in/danielchagasx/" target="_blank">Linkedin</a>
 
-My name is Daniel Chagas, currently living in Brazil!
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postgresql,aws,mysql,docker,mongodb)](https://skillicons.dev) <hr>
 
-- :man_technologist: I'm Backend developer.
-- :blue_heart:Techs: Java, Spring, AWS, Maven...
-- :books:Studying Information Systems - UFPA
----
+Here you'll find some projects focused in the following technologies:
+- Java
+- Kotlin 
+- Spring Boot (Web, Data JPA, Security)
+- Microsservicos
+- Relational and Non-Relational Databases (SQL Server, MySQL, MongoDB)
+- Docker
+- AWS Bucket S3
+- AWS Lambda
