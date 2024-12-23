@@ -10,15 +10,14 @@
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,react,express,docker,mysql,postgresql)](https://skillicons.dev) <hr>
 
 I have experiencie with the following technologies:
-- Java;
-- Spring Boot, Spring Data, Spring Cloud, Spring JPA;
+- Javascript;
+- Typescript;
+- Docker;
+- Node.js and Nest.js;
+- React.js and Express;
 - PostgreSQL and MySQL;
 - Rest APIs;
 - AWS (Lambda, API Gateway, S3 Bucket);
 - Git;
 - ORM;
-- Gradle and Maven;
-- Hibernate;
 - Microservices;
-- JUnit and Mockito;
-- Prometheus and Grafana;
