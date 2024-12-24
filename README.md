@@ -24,4 +24,6 @@ I have experiencie with the following technologies:
 - AWS (Lambda, API Gateway, S3 Bucket);
 - Git;
 - ORM;
+- Prometheus and Grafana;
+- JUnit and Mockito;
 - Microservices;
