@@ -1,10 +1,6 @@
-<code>System.out.println("Welcome to my github!😆")</code>
-<hr>
-
 <p>👨‍💻 Backend Developer</p>
 <p>🎓 Studying Information Systems at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
-<p>📚 Studing Cloud Solutions and Event-Driven Architecture</p>
-<p>🤓 My <a href="https://www.linkedin.com/in/danielchagasx/" target="_blank">Linkedin</a>
+<p>📚 Studing AWS</p>
 
 I have experiencie with the following technologies:
 - Java;
