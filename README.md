@@ -13,6 +13,7 @@ I have experiencie with the following technologies:
 - Spring Boot, Spring Data, Spring JPA;
 - Gradle and Maven;
 - Hibernate;
+- JDBC;
 - MySQL, PostgreSQL and MongoDB;
 - Rest APIs;
 - AWS (Lambda, API Gateway, S3 Bucket);
