@@ -1,5 +1,10 @@
-## Daniel Chagas
 
-Hi, I'm a Java Back-end developer <br>
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
-Here on my GitHub profile you can see all my projects.
+<p>👨‍💻 Back-end Developer</p>
+<p>🎓 Studying Information Systems at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
+<p>☁️ Studying solutions with AWS</p>
+<p>🔠 B1 Intermediary English Level</p>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,mysql,docker,mongodb,maven)](https://skillicons.dev)
