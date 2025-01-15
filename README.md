@@ -7,4 +7,4 @@
 <p>☁️ Studying solutions with AWS</p>
 <p>🔠 B1 Intermediary English Level</p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,typescript,aws,postgresql,mysql,docker,prisma,vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,aws,postgresql,mysql,docker,prisma,vitest)](https://skillicons.dev)
