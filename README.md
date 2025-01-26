@@ -1,6 +1,6 @@
 ```kotlin
 fun main() {
-    println("Bem-vindo ao meu Github😆")
+    println("Bem-vindo ao meu Github🤓")
 }
 ```
 <hr>
