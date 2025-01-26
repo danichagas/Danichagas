@@ -1,4 +1,8 @@
-<code>fmt.Println("Bem-vindo ao meu Github!😆")</code>
+```kotlin
+fun main() {
+    println("Bem-vindo ao meu Github😆")
+}
+```
 <hr>
 
 <p>👨‍💻 Mobile Developer</p>
@@ -6,4 +10,4 @@
 <p>📱 Estudando Kotlin</p>
 <p>🔠 B1 Inglês intermediário</p>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,idea,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,idea,sqlite)](https://skillicons.dev)
