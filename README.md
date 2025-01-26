@@ -1,9 +1,9 @@
-<code>fmt.Println("Welcome to my github!😆")</code>
+<code>fmt.Println("Bem-vindo ao meu Github!😆")</code>
 <hr>
 
-<p>👨‍💻 Back-end Developer</p>
-<p>🎓 Studying Information Systems at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
-<p>☁️ Studying solutions with AWS</p>
-<p>🔠 B1 Intermediary English Level</p>
+<p>👨‍💻 Desenvolvedor Back-end</p>
+<p>🎓 Cursando Sistemas de Informação na <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
+<p>☁️ Estudando soluções em nuvem com a AWS</p>
+<p>🔠 B1 Inglês intermediário</p>
 
 [![My Skills](https://skillicons.dev/icons?i=go,mysql,postgresql,sqlite)](https://skillicons.dev)
