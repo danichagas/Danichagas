@@ -1,10 +1,3 @@
-```kotlin
-fun main() {
-    println("Bem-vindo ao meu Github🤓")
-}
-```
-<hr>
-
 <p>👨‍💻 Mobile Developer</p>
 <p>🎓 Cursando Sistemas de Informação na <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
 <p>📱 Estudando Kotlin</p>
