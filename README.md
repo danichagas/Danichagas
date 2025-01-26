@@ -6,4 +6,4 @@
 <p>☁️ Estudando soluções em nuvem com a AWS</p>
 <p>🔠 B1 Inglês intermediário</p>
 
-[![My Skills](https://skillicons.dev/icons?i=go,mysql,postgresql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,aws,mysql,postgresql,sqlite)](https://skillicons.dev)
