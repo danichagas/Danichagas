@@ -3,4 +3,4 @@
 <p>📚 Estudando Python</p>
 <p>🔠 B1 Inglês intermediário</p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,spring,django,flask,mongodb,postgresql,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,mongodb,rabbitmq,redis)](https://skillicons.dev)
