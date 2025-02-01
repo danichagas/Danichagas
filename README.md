@@ -1,5 +1,5 @@
 <p>👨‍💻 Back-end Developer</p>
-<p>🎓 Studying Information Systems at<a href="https://ufpa.br/" target="blank_">UFPA</a></p>
+<p>🎓 Studying Information Systems at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
 <p>📚 Studying Python with Flask</p>
 <p>🔠 B1 Inglish Level</p>
 
