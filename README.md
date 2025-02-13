@@ -3,4 +3,4 @@
 <p>📚 Studying Typescript with Docker</p>
 <p>🔠 B1 Inglish Level</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,prisma,postgresql,docker,express,react,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,prisma,postgresql,docker,express,react,tailwind,jest)](https://skillicons.dev)
