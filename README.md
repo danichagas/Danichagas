@@ -3,4 +3,4 @@
 <p>📚 Studying Typescript with Node.js and React</p>
 <p>🔠 B1 Inglish Level</p>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,ts,nodejs,react,nest,prisma,postgresql,docker,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts,nodejs,react,nest,express,prisma,postgresql,docker,jest)](https://skillicons.dev)
