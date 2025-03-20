@@ -1,6 +1,21 @@
-<p>👨‍💻 Back-end Developer</p>
+## About
 <p>🎓 Studying <strong>Information Systems</strong> at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
-<p>📚 Studying Typescript with Node.js</p>
-<p>🔠 B1 Inglish Level</p>
+I am a Node.js Developer, in love with the tech area and passionate about solving problems.
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,nestjs,npm,prisma,postgres,docker)](https://skillicons.dev)
+I have experiencie with the following technologies:
+- Node.js;
+- Javascript;
+- TypeScript;
+- PostgreSQL and MySQL;
+- Rest APIs;
+- Nest.js;
+- Express;
+- AWS;
+- Git;
+- Docker;
+- ORM(Prisma , Mongoose);
+- Zod
+- Microservices;
+- React.js;
+- Tailwind CSS;
+- HTML and CSS;
