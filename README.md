@@ -6,7 +6,7 @@ I have experiencie with the following technologies:
 - Node.js;
 - Javascript;
 - TypeScript;
-- PostgreSQL and MySQL;
+- PostgreSQL, MySQL and SQL;
 - Rest APIs;
 - Nest.js;
 - Express;
