@@ -1,7 +1,3 @@
-<code> ?php echo 'Welcome to my github😆!' </code>
-
-<hr>
-
 <p>👨‍💻 Back-end Developer </p>
 <p>🎓 Studying <strong>Information Systems</strong> at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
 <p>🔠 B1 English Level</p>
