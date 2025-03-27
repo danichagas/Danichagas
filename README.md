@@ -1,21 +1,9 @@
-## About
-<p>🎓 Studying <strong>Information Systems</strong> at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
-I am a Node.js Developer, in love with the tech area and passionate about solving problems.
+<code> ?php echo 'Welcome to my github😆!' </code>
 
-I have experiencie with the following technologies:
-- Node.js;
-- Javascript;
-- TypeScript;
-- PostgreSQL, MySQL and SQL;
-- Rest APIs;
-- Nest.js;
-- Express;
-- AWS;
-- Git;
-- Docker;
-- ORM(Prisma , Mongoose);
-- Zod
-- Microservices;
-- React.js;
-- Tailwind CSS;
-- HTML and CSS;
+<hr>
+
+<p>👨‍💻 Back-end Developer </p>
+<p>🎓 Studying <strong>Information Systems</strong> at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
+<p>🔠 B1 English Level</p>
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
