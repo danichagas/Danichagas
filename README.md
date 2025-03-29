@@ -1,5 +1,7 @@
-<p>👨‍💻 Software Developer </p>
-<p>🎓 Studying <strong>Information Systems</strong> at <a href="https://ufpa.br/" target="blank_">UFPA</a></p>
-<p>🔠 B1 English Level</p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=danichagas&show_icons=true&theme=tokyonight&cache_seconds=2300" alt="ilustração do status do github">
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgresql,mysql)](https://skillicons.dev)
+### Hello, my name is Daniel Chagas!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Daniel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+Studying Information Systems at **UFPA** <br/> And I'm a Golang developer
