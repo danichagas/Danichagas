@@ -4,7 +4,7 @@
 
 ## 👦 **Sobre mim**
 
-Eastudo tecnologia desde 2023 e durante esse período da minha vida de programação estudei e desenvolvi projetos de **back-end**.
+Estudo tecnologia desde 2023 e durante esse período da minha vida de programação estudei e desenvolvi projetos de **back-end**.
 
 Se você me perguntasse sobre meu projeto favorito em que já trabalhei, eu sempre diria que é o que vem a seguir. Acredito que cada novo projeto vem com seu próprio conjunto único de desafios e oportunidades de crescimento. Acredito que sempre há espaço para melhorarmos a nós mesmos.
 
