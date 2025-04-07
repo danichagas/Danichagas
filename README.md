@@ -12,9 +12,9 @@ Eu tenho um **objetivo**:
 
 **Meu objetivo** é ajudar as pessoas atráves da tecnologia.
 
-## **Minhas habilidades tecnológicas**
+## **Minhas habilidades**
 
-Aqui estão algumas das habilidades tecnológicas que eu domino 😎:
+Aqui estão algumas das habilidades que eu domino 😎:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,mysql)](https://skillicons.dev)
 
