@@ -4,7 +4,7 @@
 
 ## 👦 **Sobre mim**
 
-Estudo tecnologia desde 2023 e durante esse período da minha vida de programação estudei e desenvolvi projetos de **back-end**.
+Estudo tecnologia desde 2023 e durante esse período da minha vida de programação estudei e evolui muito no desenvolvimento de aplicativos **Android** com Kotlin.
 
 Se você me perguntasse sobre meu projeto favorito que já desenvolvi, eu sempre diria que é o que vou trabalhar a seguir. Acredito que cada novo projeto vem com seu próprio conjunto único de desafios e oportunidades de crescimento. Acredito que sempre há espaço para melhorarmos a nós mesmos.
 
@@ -16,7 +16,7 @@ Eu tenho um **objetivo**:
 
 Aqui estão algumas das habilidades que eu domino 😎:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,sqlite)](https://skillicons.dev)
 
 ## 🍿 No meu tempo livre eu gosto:
 
