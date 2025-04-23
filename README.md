@@ -4,9 +4,9 @@
 
 ## 👦 **Sobre mim**
 
-Estudo tecnologia desde 2023 e durante esse período da minha vida de programação estudei e evolui muito no desenvolvimento de software com **C#** e **.NET**.
+Estudo tecnologia desde 2023 e durante esse período da minha vida de programação estudei e evolui muito no desenvolvimento de software com **Typescript** e **Node.js**.
 
-Se você me perguntasse sobre meu projeto favorito que já desenvolvi, eu sempre diria que é o que vou trabalhar a seguir. Acredito que cada novo projeto vem com seu próprio conjunto único de desafios e oportunidades de crescimento. Acredito que sempre há espaço para melhorarmos a nós mesmos.
+Meu comprometimento e interesse em tecnologia vão além das linhas de código. Estou sempre em busca de novos aprendizados e disposto a ajudar e incentivar qualquer pessoa interessada em começar na área de desenvolvimento.
 
 Eu tenho um **objetivo**:
 
@@ -16,7 +16,7 @@ Eu tenho um **objetivo**:
 
 Aqui estão algumas das habilidades que eu domino 😎:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,prisma,docker,mysql,postgresql)](https://skillicons.dev)
 
 ## 🍿 No meu tempo livre eu gosto:
 
