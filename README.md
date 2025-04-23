@@ -16,7 +16,7 @@ Eu tenho um **objetivo**:
 
 Aqui estão algumas das habilidades que eu domino 😎:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,prisma,docker,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,prisma,docker,mysql,postgresql,jest)](https://skillicons.dev)
 
 ## 🍿 No meu tempo livre eu gosto:
 
