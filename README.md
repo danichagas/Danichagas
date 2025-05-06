@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danichagas
 - 👨‍💻 I am a backend developer
-- 🌱 I'm currently studying Node.js and Typescript
+- 📚 I'm currently studying Node.js and Typescript
 - 📫 How to reach me - [Linkedin]( https://www.linkedin.com/in/danichagasdev/)
