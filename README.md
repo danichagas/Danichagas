@@ -8,9 +8,9 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languagens = ["Javascript and Typescript"];
+  languagens = ["Javascript, Typescript and Ruby"];
   frameworks = ["Nest.js, Express.js"];
-  technologies = ["Node.js, Docker, AWS, PostgreSQL, MySQL, Jest, Prisma, Zod, Vitest"];
+  technologies = ["Node.js, Ruby on Rails, Docker, AWS, PostgreSQL, MySQL, Jest, Prisma, Zod, Vitest"];
   architecture = ["SOLID, DDD"];
 }
 ```
