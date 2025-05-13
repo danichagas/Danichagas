@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=DanielChagas&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Compass UOL<br/> Eu sou desenvolvedor Backend Node.js</p>
+<p>Trabalhando na Compass UOL<br/> E eu sou Desenvolvedor Backend Node.js</p>
